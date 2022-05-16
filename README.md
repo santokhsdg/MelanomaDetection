@@ -22,7 +22,7 @@
 - ISIC provided is not class balanced, data augmentation is used to create more image by augmenting existing.
 - Image Size: 180 X 180 RGB  normalized between 0-1 used for training and validation.
 - Resultant model is trained and validated upon augmented data for 30 Epochs
-- Training Accuracy: 86.72  and Validation Accuracy: 82.70
+- Training Accuracy: 84.53  and Validation Accuracy: 82.85
 
 ## Technologies Used
 - keras - version 2.8.0
@@ -33,7 +33,7 @@
 - Augmentor - version 0.2.10
 
 ## Acknowledgements
-Thanks to ISIC for providing a well-structured dataset
+Thanks to ISIC for providing a well-structured dataset.
 
 
 ## Contact
