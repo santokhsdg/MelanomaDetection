@@ -1,4 +1,4 @@
-# ISIC Skin Cancer Classification using Custom CNN 
+# ISIC Skin Cancer Classification using Custom CNN Model
 > CNN model which can accurately detect melanoma and classify skin conditions of 9 types 
 > including Melanoma. Melanoma accounts for 75% of skin cancer deaths. A solution that can evaluate images and 
 > alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
